@@ -28,8 +28,8 @@
 </head>
 <body>
   <h1>Impacto do Desmatamento</h1>
-  <img src="https://github.com/juliop556/projeto-agrinho-2025-/blob/main/ChatGPT%20Image%2017%20de%20jun.%20de%202025%2C%2008_49_10.png" alt=Imagem de floresta sendo desmatada" width="600" />
-</body><p>essa imagem foi gerada por IA</p>
+  <img src="https://github.com/juliop556/projeto-agrinho-2025-/blob/main/ChatGPT%20Image%2017%20de%20jun.%20de%202025%2C%2008_49_10.png" alt=Imagem de floresta sendo desmatada" width="400" />
+</body><p>essa imagem foi gerada por IA</p><p>comando usado: Faça uma floresta desmatada, com arvores no chão</p>
 
 </article>
 </body>
