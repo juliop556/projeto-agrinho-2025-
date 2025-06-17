@@ -18,7 +18,7 @@
     </p>
    <h2>O papel da humanidade</h2>
     <p> Cientistas alertam que, se não forem tomadas medidas urgentes, o planeta pode ultrapassar o limite de 1,5°C de aumento médio até 2030, o que pode tornar várias regiões inabitáveis. A redução das emissões de carbono, a transição para energias renováveis e a preservação de florestas são ações essenciais para conter a crise climática.
-    </p>
+    </p>  <img src="" alt=Imagem termometro" width="400" />
     <h2>O que podemos fazer?</h2>
     <ul><li>Reduzir o uso de combustíveis fósseis e priorizar transporte sustentável</li> <li>Consumir de forma consciente e evitar o desperdício</li><li>Plantar árvores e preservar áreas verdes</li><li>Apoiar políticas públicas ambientais e cobrar ações governamentais</li>
     </ul>
