@@ -55,7 +55,6 @@
     <p> O aquecimento global é um desafio de todos. Cabe a cada um de nós agir agora para garantir um futuro habitável para as próximas gerações.</p><html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Floresta Desmatada</title>
 </head>
 <body>
   <h1>Impacto do Desmatamento</h1>
