@@ -52,7 +52,15 @@
     <h2>O que podemos fazer?</h2>
     <ul><li>Reduzir o uso de combustíveis fósseis e priorizar transporte sustentável</li> <li>Consumir de forma consciente e evitar o desperdício</li><li>Plantar árvores e preservar áreas verdes</li><li>Apoiar políticas públicas ambientais e cobrar ações governamentais</li>
     </ul>
-    <p> O aquecimento global é um desafio de todos. Cabe a cada um de nós agir agora para garantir um futuro habitável para as próximas gerações.</p>![image](https://github.com/user-attachments/assets/a02ca3ac-8349-409d-958e-67318ae9957b)<p>essa imagem foi gerada por IA</p>
+    <p> O aquecimento global é um desafio de todos. Cabe a cada um de nós agir agora para garantir um futuro habitável para as próximas gerações.</p><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Floresta Desmatada</title>
+</head>
+<body>
+  <h1>Impacto do Desmatamento</h1>
+  <img src="images/floresta_desmatada.png" alt="Imagem de floresta sendo desmatada" width="600">
+</body>![image](https://github.com/user-attachments/assets/a02ca3ac-8349-409d-958e-67318ae9957b)<p>essa imagem foi gerada por IA</p>
 
 </article>
 </body>
