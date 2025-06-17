@@ -3,13 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reportagem: Aquecimento Global</title>
-    <style>
-        body={font-family: Arial, sans-serif;line-height: 1.6;margin: 40px;background-color: #f4f4f4;color: #333;}
-        header {background-color: #2a7ae2;color: white;padding: 20px;text-align: center;border-radius: 8px;}
-        article {background-color: white;padding: 30px;border-radius: 8px;box-shadow: 0 0 10px rgba(0,0,0,0.1) }
-        h2 {color: #2a7ae2; }
-        footer {margin-top: 40px;text-align: center;color: #777;}</style>
+    
 </head>
 <body>
 <head>
