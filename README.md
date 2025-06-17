@@ -59,8 +59,8 @@
 </head>
 <body>
   <h1>Impacto do Desmatamento</h1>
-  <img src="images/floresta_desmatada.png" alt="Imagem de floresta sendo desmatada" width="600">
-</body>![image](https://github.com/user-attachments/assets/a02ca3ac-8349-409d-958e-67318ae9957b)<p>essa imagem foi gerada por IA</p>
+  <img src=https://github.com/user-attachments/assets/a02ca3ac-8349-409d-958e-67318ae9957b"Imagem de floresta sendo desmatada" width="600">
+</body><p>essa imagem foi gerada por IA</p>
 
 </article>
 </body>
