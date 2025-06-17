@@ -37,7 +37,7 @@
 </head>
 <body>
 
-<header>
+<head>
     <h1>Aquecimento Global: Uma Ameaça Crescente</h1>
     <p>Por julio cesar – 11 de junho de 2025</p>
 </header>
