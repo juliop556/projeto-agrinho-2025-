@@ -19,7 +19,6 @@
    <h2>O papel da humanidade</h2>
     <p> Cientistas alertam que, se não forem tomadas medidas urgentes, o planeta pode ultrapassar o limite de 1,5°C de aumento médio até 2030, o que pode tornar várias regiões inabitáveis. A redução das emissões de carbono, a transição para energias renováveis e a preservação de florestas são ações essenciais para conter a crise climática.
     </p>  <img src="https://github.com/juliop556/projeto-agrinho-2025-/blob/main/ChatGPT%20Image%2017%20de%20jun.%20de%202025%2C%2011_03_48.png" alt=Imagem termometro" width="250" /><p>essa imagem foi gerada por IA</p><p>comando usado: Faça um termometro marcando 40 graus</p>
-
     <h2>O que podemos fazer?</h2>
     <ul><li>Reduzir o uso de combustíveis fósseis e priorizar transporte sustentável</li> <li>Consumir de forma consciente e evitar o desperdício</li><li>Plantar árvores e preservar áreas verdes</li><li>Apoiar políticas públicas ambientais e cobrar ações governamentais</li>
     </ul>
